@@ -34,3 +34,5 @@ repos.tar.gz
 .settings
 .cache*
 .project
+
+.dbuild/
